@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx jest",
-    "build": "webpack serve"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
